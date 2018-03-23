@@ -1,7 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\redpl\\.nuget\\packages"
+      "C:\\Users\\jyhyun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jyhyun\\.nuget\\packages"
     ]
   }
 }

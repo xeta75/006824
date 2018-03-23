@@ -1,16 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{63C08B08-6926-4019-8EEE-B6926F25605C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{559563D7-8D11-4F80-805A-23D5A840E04E}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DotNetNote", "src\DotNetNote\DotNetNote.xproj", "{B1C62996-D8A6-4628-BDC4-3C4ED3D257DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetNote", "src\DotNetNote\DotNetNote.csproj", "{B1C62996-D8A6-4628-BDC4-3C4ED3D257DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,5 +25,8 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B1C62996-D8A6-4628-BDC4-3C4ED3D257DE} = {63C08B08-6926-4019-8EEE-B6926F25605C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6E86E3-4607-4E2E-8A59-B4F2651E6E65}
 	EndGlobalSection
 EndGlobal

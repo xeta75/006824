@@ -30,7 +30,9 @@ namespace DotNetNote
             services.AddSingleton<IInfoService, InfoService>();
 
             //[DI(Dependency Injection)] 서비스 등록
-            services.AddTransient<ICopyrightService, CopyrightService>();
+            //services.AddTransient<ICopyrightService, CopyrightService>();
+            //services.AddSingleton<ICopyrightService, CopyrightService>();
+            services.AddScoped<ICopyrightService, CopyrightService>();
             //[DI] @inject 키워드로 뷰에 직접 클래스의 속성 또는 메서드 값 출력
             services.AddSingleton<CopyrightService>();
         }
