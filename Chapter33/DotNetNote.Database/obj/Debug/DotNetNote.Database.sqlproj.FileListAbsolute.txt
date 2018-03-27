@@ -16,3 +16,13 @@ C:\ASP.NET\DotNetNote.Database\obj\Debug\Model.xml
 C:\ASP.NET\DotNetNote.Database\obj\Debug\refactor.xml
 C:\ASP.NET\DotNetNote.Database\obj\Debug\postdeploy.sql
 C:\ASP.NET\DotNetNote.Database\obj\Debug\predeploy.sql
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\bin\Debug\DotNetNote.Database.dacpac
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\bin\Debug\DotNetNote.Database.dll
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\bin\Debug\DotNetNote.Database.pdb
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\obj\Debug\DotNetNote.Database.sqlprojResolveAssemblyReference.cache
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\obj\Debug\Model.xml
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\obj\Debug\refactor.xml
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\obj\Debug\postdeploy.sql
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\obj\Debug\predeploy.sql
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\obj\Debug\DotNetNote.Database.dll
+D:\00 WORK\99 SRC\000 DEV\zoo10\006824\Chapter33\DotNetNote.Database\obj\Debug\DotNetNote.Database.pdb
